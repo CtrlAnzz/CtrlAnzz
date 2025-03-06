@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krembanan4e&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAnzz&layout=compact&theme=radical)
 
 
